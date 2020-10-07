@@ -3,12 +3,6 @@
 ### Preliminary Wrangling
 this data about banking loan in USA this data has 113,937 loans rows with 81 variables columns for each data record (loan), including loan amount, borrower rate (or interest rate) loan term , current loan status, borrower income, and many others
 
-### What is/are the main feature(s) of interest in your dataset?
-
->     I'm most interested in figuring in the data colunms:
-        What affects the BorrowerAPR or interest rate?
-        Are there differences between loans depending on how large the original loan amount was?
-
 
 ### What features in the dataset do you think will help support your investigation into your feature(s) of interest?
 
